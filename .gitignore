@@ -77,3 +77,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 >>>>>>> 3fb0712 (Initial commit)
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
